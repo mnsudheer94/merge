@@ -1,8 +1,8 @@
 def add(a,b)
-   return
+   adding a=b
 def subtract(a,b)
-      pass
+      subtract a-b
 def multiplication(a,b)
-      pass
+      a*b
 def division(a,b)
-   pass
+   a/b
